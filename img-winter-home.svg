@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Illustration of a home in the snow with warm lights on"><defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16233a"/><stop offset="1" stop-color="#3b5578"/></linearGradient></defs>
+<rect width="600" height="400" fill="url(#s)"/>
+<g fill="#fff" opacity=".85"><circle cx="60" cy="50" r="3"/><circle cx="140" cy="110" r="2.5"/><circle cx="230" cy="40" r="3"/><circle cx="330" cy="90" r="2"/><circle cx="420" cy="38" r="3"/><circle cx="520" cy="96" r="3"/><circle cx="560" cy="170" r="2.5"/><circle cx="40" cy="190" r="2.5"/><circle cx="490" cy="220" r="2"/><circle cx="110" cy="250" r="2"/><circle cx="370" cy="160" r="2"/></g>
+<path d="M0 320c120-26 240-30 380-14 90 10 160 6 220-8v102H0z" fill="#f3f6fa"/>
+<polygon points="60,320 100,200 140,320" fill="#1d4a39"/><polygon points="72,260 100,200 128,260" fill="#e9eef5" opacity=".9"/><polygon points="486,324 522,214 558,324" fill="#1d4a39"/><polygon points="498,268 522,214 546,268" fill="#e9eef5" opacity=".9"/>
+<rect x="400" y="120" width="30" height="66" fill="#7b5a4a"/><rect x="394" y="112" width="42" height="14" rx="3" fill="#f3f6fa"/>
+<rect x="170" y="190" width="260" height="136" fill="#46587a"/>
+<polygon points="146,196 300,92 454,196" fill="#26324a"/><polygon points="146,196 300,92 454,196 440,196 300,104 160,196" fill="#f3f6fa"/>
+<rect x="200" y="222" width="52" height="56" rx="4" fill="#ffd27a"/><rect x="348" y="222" width="52" height="56" rx="4" fill="#ffd27a"/>
+<g stroke="#46587a" stroke-width="3"><path d="M226 222v56M200 250h52M374 222v56M348 250h52"/></g>
+<rect x="274" y="244" width="52" height="82" rx="4" fill="#BB0000"/><circle cx="316" cy="288" r="3.5" fill="#ffd27a"/>
+<path d="M160 326h280" stroke="#f3f6fa" stroke-width="10" stroke-linecap="round"/></svg>
